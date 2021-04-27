@@ -1,0 +1,74 @@
+{
+    "user": [
+        {
+            "name": "shahnaaz",
+            "password": "nazneen123@N",
+            "profile": {
+                "description": " my name is shahnaaz i like travlinge",
+                "dob": " 24 nov 2000",
+                "hobbies": " talking",
+                "gender": "female"
+            }
+        },
+        {
+            "name": "shireen",
+            "password": "Nazneen@123",
+            "profile": {
+                "description": " my name is shireen i love my mom",
+                "Dob": "06 04 1999",
+                "hobbies": "reading quran",
+                "gender": "female"
+            }
+        },
+        {
+            "name": "rupali",
+            "password": "Rupali@123",
+            "profile": {
+                "description": "my name is rupali i love dancing",
+                "Dob": "15 dec 1998",
+                "hobbies": "eating and irriate shireen",
+                "gender": "female"
+            }
+        },
+        {
+            "name": "Munjula",
+            "password": "manjula65@M",
+            "profile": {
+                "description": "im innocent girl ",
+                "Dob": "19 aug 1997",
+                "hobbies": "travling dancing ",
+                "gender": "female"
+            }
+        },
+        {
+            "name": "pragna ",
+            "password": "pragu@22Snaaz",
+            "profile": {
+                "description": "i love sarees",
+                "Dob": "18 spt 1999",
+                "hobbies": "dancing cooking talking",
+                "gender": "female"
+            }
+        },
+        {
+            "name": "kumar",
+            "password": "kumar@567K",
+            "profile": {
+                "description": "Kumar from AP, mechanical engineer from APIIIT RGUKT RKValley",
+                "Dob": "02-01-1996",
+                "hobbies": "playing cricket,watching movies, writing code",
+                "gender": "Male"
+            }
+        },
+        {
+            "name": "swati bharadwajh",
+            "password": "Bharadwajh@1",
+            "profile": {
+                "description": " im swati  i like cerelace and pencil",
+                "Dob": "15 march 2000",
+                "hobbies": "making insta reels and travling ",
+                "gender": "famale"
+            }
+        }
+    ]
+}
